@@ -1,5 +1,4 @@
-I am gonna get killed by this midterm
-Unless I study hard
-Even then, I might not do as well as I hope
-But that's okay
-Because I care about my effort more than I do my grades
+So now I am practicing how to edit a txt file,
+and all the stages that come with showing those
+changes in my virtual repo, github
+
