@@ -4,3 +4,4 @@ Luxray
 Glaceon
 Lucario
 Garchomp
+Spiritomb
