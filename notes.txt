@@ -1,4 +1,3 @@
-So now I am practicing how to edit a txt file,
-and all the stages that come with showing those
-changes in my virtual repo, github
+I wonder what status looks like after commiting
+but before pushing
 
